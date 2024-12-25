@@ -30,14 +30,25 @@ Foss-Android is a repository dedicated to collecting free and open-source Androi
 
 利用 GitHub 的导航功能快速找到你需要的软件！以下是我整理的几个主分类：  
 
-- **📦 软件仓库类**：  
-  专门用于收录和管理开源应用的软件平台，提供便捷的开源软件浏览、下载和更新功能。  
-  - ### F-Droid 客户端 ###  
-     [F-Droid](https://f-droid.org) 客户端是一款开源的 Android 应用商店，专注于提供符合开源协议的软件，保障用户隐私并支持自由使用和修改。它具备完全开源、隐私保护、精选高质量开源应用、简洁便捷的界面以及定期更新的特点，是开源爱好者和隐私保护用户的理想平台。
+**📦 软件仓库类**：  
+专门用于收录和管理开源应用的软件平台，提供便捷的开源软件浏览、下载和更新功能。
+
+| 名称 | 简介 |
+|---|---|
+| [Neo Store](https://github.com/NeoApplications/Neo-Store) | 一款现代化的F-Droid客户端，整合多个第三方软件库，提供快速和简便的应用管理。 |
+| [F-Droid](https://f-droid.org) | 开源的Android应用商店，专注于提供符合开源协议的软件，确保用户隐私，支持自由使用和修改。 |
+| [Obtainium](https://github.com/ImranR98/Obtainium) | 允许用户直接从开发者的仓库下载和更新应用，提供自动检查新版本的功能，绕过传统的更新方式。 |
+   
+- **⚙️ 网络工具类**：为开发者准备的利器。
+  
+| 名称 | 简介 |
+|---|---|
+| [sing-box](https://github.com/SagerNet/sing-box) |通用跨平台代理软件客户端，类似 v2rayN 、 Clash for Windows 等，但拥有更多新特性，并且目前少有同时支持 iOS 和 Apple TV 并且免费的代理应用，支持 Shadowsocks 、 Vmess 、 Trojan 、 Hysteria 2 等协议。 |
+| [husi](https://github.com/xchacha20-poly1305/husi) | 基于Nekoray的开发，主打就是稳。 |
+| [Oblivion](https://github.com/bepass-org/oblivion) | “互联网，要么全民，要么全无！”，宣传语就是这么屌。被我当作梯子用。 |
   
 - **📱 应用类**：注重日常使用和生产力的开源软件。
- 
-- **⚙️ 开发工具**：为开发者准备的利器。
+
  
 - **📚 功能库**：构建安卓应用时的开源基础。  
 
